@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #bcbcc5;
+}
+
+.text-center{
+    flex: 1;
+    text-align: center;
+}
+
+input.form-control{
+    background-color: #bcbcc5;
+    color: #414141;
+    padding-right: 40px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat right;
+    background-position: 98.5%;
+    background-size: 25px;
+}
+
+
+#search_bar{
+    background-color: #bcbcc5;
+}
+
+#navbar{
+    padding: 15px 0px;
+}
+
+#bottom_nav{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #bcbcc5;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    font-size: 0.8rem;
+}
+
+#icons{
+    display: grid;
+    place-items: center;
+    height: 100%;
+}
